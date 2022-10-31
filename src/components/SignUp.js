@@ -21,7 +21,7 @@ const SignUp = () => {
     <div className="signup">
       <div className="w-25 m-auto">
         <form onSubmit={handleSubmit}>
-          <h2 className="text-center">Login</h2>
+          <h2 className="text-center">SignUp</h2>
           <div className="form-group my-3">
             <label htmlFor="exampleInputName">Name</label>
             <input
